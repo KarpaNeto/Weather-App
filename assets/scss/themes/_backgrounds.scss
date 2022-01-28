@@ -1,0 +1,25 @@
+.rain {
+    background-color: $background-color;
+    background-image: url('https://www.westerlynews.ca/wp-content/uploads/2021/10/26834446_web1_211020-NBU-weather-statement-1_1.jpg');
+  }
+  
+  .snow {
+    background-color: $background-color;
+    background-image: url('https://img.apmcdn.org/d8e1a159bdf47e2438b3ad9bb1bff44800e14bc4/portrait/21746b-20201223-blizzard-warning-cj-06.jpg');
+  }
+  
+  .night {
+    background-color: $night-color;
+    background-image: url('https://images.unsplash.com/photo-1507400492013-162706c8c05e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+  }
+  
+  .fog {
+    background-color: $fog-color;
+    background-image: url('https://i2.wp.com/blog.lucasgilbert.com.br/wp-content/uploads/2018/06/fog-lucas-gilbert.jpg?ssl=1');
+  }
+  
+  .clouds {
+    background-color: $background-color;
+    background-image: url('https://www.westerlynews.ca/wp-content/uploads/2021/10/26834446_web1_211020-NBU-weather-statement-1_1.jpg');
+  }
+  
